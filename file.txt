@@ -1,0 +1,6 @@
+this is a test text, a text that need to pass the test.
+and this is a yet another line with the text! amazing, right?
+And This Is Another Line With wOrDs oF VaRiOuS cAsE.
+test's parser's text's
+what_about_this?
+также, также ,также как текст на русском языке языке
